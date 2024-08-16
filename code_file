@@ -1,0 +1,11 @@
+
+** Data Creation**
+*1. TRI Data
+  *This data downloaded from annual report https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-present
+  *each year we use PROD. WASTE (8.1 THRU 8.7)
+  // keep year facilityname parentconame standardparentconame productionwste8187
+
+** Cosntruct five portfolio sorted on firm's current toxicity-adjusted emission and report portfolio post formation in average stock returns**
+*1. Prepare data on variable Toxicity ( using Scope1 data / total asset)
+*2. Make average stock return 
+  *- Return generated from variable RI
